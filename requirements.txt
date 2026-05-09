@@ -1,4 +1,4 @@
-torch==1.10
+torch
 tokenizers
 gradio
 regex
@@ -6,5 +6,6 @@ huggingface-hub
 tensorboard
 nltk
 seaborn
-transformers==4.27
-setuptools==58.0.4
+transformers
+setuptools
+flask
